@@ -1,9 +1,10 @@
 <!DOCTYPE html>
 <html lang="en-US">
   <head>
-    <meta charset="UTF-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Virtua - New Amazing HTML5 Template</title>
+	<link rel="shortcut icon" href="img/fav.png">
+    <title>Pole-TIC</title>
     <link rel="stylesheet" href="css/components.css">
     <link rel="stylesheet" href="css/icons.css">
     <link rel="stylesheet" href="css/responsee.css">
@@ -15,6 +16,7 @@
     <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,700,900&amp;subset=latin-ext" rel="stylesheet"> 
     <script type="text/javascript" src="js/jquery-1.8.3.min.js"></script>
     <script type="text/javascript" src="js/jquery-ui.min.js"></script>   
+<meta name="generator" content="Namo WebEditor v6.0">
   </head>
 
   <body class="size-1280">
@@ -37,9 +39,8 @@
           <!-- left menu items -->
           <div class="top-nav left-menu">
              <ul class="right top-ul chevron">
-                <li><a href="index.html">Home</a></li>
-                <li><a href="about-us.html">About Us</a></li>
-                <li><a href="services.html">Our Services</a></li>
+                <li><a href="index.html">Accueil</a></li>
+                <li><a href="about-us.html">A Propos</a></li>
              </ul>
           </div>
           
@@ -47,23 +48,16 @@
           <ul class="logo-menu">
             <a href="index.html" class="logo">
               <!-- Logo White Version -->
-              <img class="logo-white" src="img/logo.svg" alt="">
+              <img class="logo-white" src="img/logo.png" alt="">
               <!-- Logo Dark Version -->
-              <img class="logo-dark" src="img/logo-dark.svg" alt="">
+              <img class="logo-dark" src="img/logo-dark.png" alt="">
             </a>
           </ul>
           
           <!-- right menu items -->
           <div class="top-nav right-menu">
              <ul class="top-ul chevron">
-                <li>
-                  <a>Products</a>
-                  <ul>
-                    <li><a>Product 1</a></li>
-                    <li><a>Product 2</a></li>
-                  </ul>
-                </li>
-                <li><a href="gallery.html">Gallery</a></li>
+                <li><a href="services.html">Services</a></li>
                 <li><a href="contact.html">Contact</a></li>
              </ul> 
           </div>
@@ -75,109 +69,48 @@
     <main role="main">
       <article>    
         <!-- Header -->
-        <header class="section background-image text-center" style="background-image:url(img/carousel-02.jpg)">
+        <header class="section background-image text-center" style="background-image:url(img/img-05.jpg)">
           <h1 class="animated-element slow text-extra-thin text-white text-s-size-30 text-m-size-40 text-size-50 text-line-height-1 margin-bottom-30 margin-top-130">
-            Contact Us
+            A Propos
           </h1>
-          <p class="animated-element text-white">Duis autem vel eum iriure dolor in hendrerit in</p>
           
           <!-- white full width arrow object -->
           <img class="arrow-object" src="img/arrow-object-white.svg" alt="">
         </header>
         
+		      <!-- Section 4 -->
+      <section class="background-primary full-width">        
+        <div class="m-12 l-6 xl-5 xxl-4">
+          <img class="full-img" src="img/img-02.png"/>
+        </div>         
+        <div class="m-12 l-6 xl-7 xxl-8">
+          <div class="l-12 xl-11 xxl-8 padding-2x">
+            <h2 class="text-l-size-40 text-size-50 text-white"><b>Qui somme nous ?</b></h2>
+            <p class="margin-bottom">        <p class="text-white">Notre &eacute;quipe de professionnels des TIC vous accompagne dans vos projets innovants en mettant &agrave; disposition des moyens concrets et des  ing&eacute;nieurs qualifi&eacute;s, pour des d&eacute;veloppements, des formations, et veilles sur les derni&egrave;res technologies</p>
+            <!-- white Start your Business object -->
+            <img class="margin-left-20 margin-top-30 margin-bottom-30" src="img/start-your-business.svg" alt="">
+          </div>  
+        </div>
+      </section>
+
         <!-- Section 1 -->
-        <section class="section-small-padding background-white text-center">      
-          <div class="line">
+        <section class="section background-white">
+          <div class="line text-center">
             <i class="icon-sli-heart text-primary text-size-40"></i>
-            <h2 class="text-dark text-size-50 text-m-size-40">We are here for you <b class="text-primary">24/7</b></h2>
-          </div>                                                                                                    
-        </section>
-        
-        <!-- Section 2 -->
-        <section class="full-width background-grey">
-          <div class="m-12 l-6">
-            <div class="padding-3x">
-              <div class="margin2x">
-                
-                <div class="l-12 xl-6 margin-bottom-60">
-                  <div class="float-left">
-                    <i class="icon-sli-location-pin text-primary text-size-40 text-line-height-1"></i>
-                  </div>
-                  <div class="margin-left-60">
-                    <h2 class="text-size-20 margin-bottom-10 text-strong">Company Address</h2>                
-                    <p>Aviation Way 99</p>
-                    <p>Los Angeles, USA</p>             
-                  </div>
-                </div>
-                
-                <div class="l-12 xl-6 margin-bottom-60">
-                  <div class="float-left">
-                    <i class="icon-sli-envelope text-primary text-size-40 text-line-height-1"></i>
-                  </div>
-                  <div class="margin-left-60">
-                    <h2 class="text-size-20 margin-bottom-10 text-strong">E-mail</h2>                
-                    <p><a class="text-primary-hover" href="mailto:contact@sampledomain.com">contact@sampledomain.com</a></p>
-                    <p><a class="text-primary-hover" href="mailto:office@sampledomain.com">office@sampledomain.com</a></p>               
-                  </div>
-                </div>
-                
-                <div class="l-12 xl-6 margin-bottom-60">
-                  <div class="float-left">
-                    <i class="icon-sli-earphones-alt text-primary text-size-40 text-line-height-1"></i>
-                  </div>
-                  <div class="margin-left-60">
-                    <h2 class="text-size-20 margin-bottom-10 text-strong">Phone Numbers</h2>                
-                    <p>0800 4521 800 50</p>
-                    <p>0450 5896 625 16</p>
-                    <p>0798 6546 465 </p>               
-                  </div>
-                </div>
-                
-                <div class="l-12 xl-6">
-                  <div class="float-left">
-                    <i class="icon-sli-paper-plane text-primary text-size-40 text-line-height-1"></i>
-                  </div>
-                  <div class="margin-left-60">
-                    <h2 class="text-size-20 margin-bottom-10 text-strong">Billing information</h2>
-                    <p>Hendrerit in vulputate duis autem vel eum iriure dolor in velit esse molestie consequat, vel illum dolore nulla facilisis</p>                 
-                  </div>
-                </div>
+            <h2 class="text-dark text-size-50 text-m-size-40">Qui <b>Somme Nous?</b></h2>
+            <hr class="break background-primary break-small break-center margin-bottom-50">
+          </div>
+          <div class="line">
+            <div class="margin2x">
+              <div class="m-12 l-6 margin-m-bottom-30">
+                <img src="img/img-01.jpg" alt="">
+              </div>          
+              <div class="m-12 l-6">
+                <p>Notre &eacute;quipe de professionnels des TIC vous accompagne dans vos projets innovants en mettant &agrave; disposition des moyens concrets et des  ing&eacute;nieurs qualifi&eacute;s, pour des d&eacute;veloppements, des formations, et veilles sur les derni&egrave;res technologies</p>
               </div>
-            </div>
-          </div>
-          <div class="m-12 l-6">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d1459734.5702753505!2d16.91089086619977!3d48.577103681657675!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ssk!2ssk!4v1457640551761" width="100%" height="600" frameborder="0" style="border:0"></iframe>
-          </div>
-        </section>
-        
-        <!-- Section 3 -->
-        <section class="section background-dark">
-          <div class="s-12 m-12 l-4 center">
-            <h3 class="text-size-30 margin-bottom-40 text-center"><b>Contact Form</b></h3>
-            <form class="customform text-white" method="post" enctype="multipart/form-data">
-              <div class="line">
-                <div class="margin">
-                  <div class="s-12 m-12 l-6">
-                    <input name="email" class="required email" placeholder="Your e-mail" title="Your e-mail" type="text" />
-                  </div>
-                  <div class="s-12 m-12 l-6">
-                    <input name="name" class="name" placeholder="Your name" title="Your name" type="text" />
-                  </div>
-                </div>
-              </div>            
-                              
-              <div class="line">       
-                <div class="s-12">
-                  <input name="subject" class="required subject" placeholder="Subject" title="Subject" type="text" />
-                </div>
-                <div class="s-12">
-                  <textarea name="message" class="required message" placeholder="Your message" rows="3"></textarea>
-                </div>
-                <div class="s-12"><button class="button border-radius text-white background-primary" type="submit">Submit Button</button></div>
-              </div>    
-            </form>
-          </div>           
-        </section>
+            </div>    
+          </div>  
+        </section>      
       </article>
     </main>
     
