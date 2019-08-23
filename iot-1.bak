@@ -66,47 +66,99 @@
     <main role="main">
       <article>    
         <!-- Header -->
-        <header class="section background-image text-center" style="background-image:url(img/carousel-02.jpg)">
+        <header class="section background-image text-center" style="background-image:url(img/carousel-03.jpg)">
           
 		  <h1 class="animated-element slow text-extra-thin text-white text-s-size-30 text-m-size-40 text-size-50 text-line-height-1 margin-bottom-30 margin-top-130">
-           <b>Nos Services</b>
+          <b>Formations IoT</b>
           </h1>
           <!-- white full width arrow object -->
           <img class="arrow-object" src="img/arrow-object-white.svg" alt="">
         </header>
         
+      <!-- Section 2 -->
+        <div class="line text-center">
+          <a class="text-primary text-size-20" href="formation.html"><b>Catalogue de Formations</b></a>
+          <h2 class="text-size-50 text-m-size-40">CONCEPTEUR DE SOLUTIONS<b> IOT</b></h2>
+          <hr class="break background-primary break-small break-center">
+        </div>
+
         <!-- Section 1 -->
         <section class="section background-white">      
           <div class="line">
             <div class="margin2x">
-                        
               <div class="m-12 l-6 margin-bottom-60">
                 <div class="float-left">
-                  <h3 class="text-strong text-size-20 text-line-height-1 margin-bottom-20"> <a class="text-primary" href="formation.html">Formation</a></h3>
-				  <p><img src="img/training.png" width="64" height="63" border="0"></p>
-                  <p>Nous assurons des formations pour nos clients sur l'internet des objets, les technologies cloud, la cyber s&eacute;curit&eacute;, et les language de programmation. Acc&eacute;der &agrave; nos catalogue de formations en ligne <a class="text-primary-hover" href="formation.html"><i class="icon-sli-mouse text-primary"></i>ici.</a></p>                    
-                     
+                  <p class="text-padding-small background-primary text-white s-12 margin-top-bottom-20"><b>OBJECTIFS DE LA FORMATION</b></p>                    
+                  <p>Cette formation apporte les  comp&eacute;tences du  domaine de l’IoT n&eacute;cessaires &agrave; la conception  d’une solution IoT de bout-en-bout qui  r&eacute;pond &agrave; un  besoin clairement identifi&eacute; pr&eacute;sentant la nature des donn&eacute;es manipul&eacute;es, les contraintes op&eacute;rationnelles et la valeur ajout&eacute;e que devra produire la solution IoT. A  l’issue   de la  formation, le  concepteur de solution IoT  est en  mesure de travailler avec des experts du domaine de l’embarqu&eacute;,  du  r&eacute;seau, du  logiciel ou  de l’analyse de donn&eacute;es afin  de coordonner la cr&eacute;ation et le d&eacute;ploiement d’une solution IoT.         
+                    <p class="text-padding-small background-dark text-white s-12 margin-top-bottom-20">PUBLIC  CONCERN&Eacute;</p>                    
+                    Salari&eacute;s, demandeurs d’emploi, jeunes dipl&ocirc;m&eacute;s et &eacute;tudiants.
+                    <p class="text-padding-small background-dark text-white s-12 margin-top-bottom-20">PREREQUISES</p>                    
+                    Personnes ayant une formation et/ou un  parcours professionnel, de  niveau  Bac+2 ou  sup&eacute;rieur,  dans  le domaine du num&eacute;rique au sens large (informatique, embarqu&eacute;, &eacute;lectronique).
+					<p class="text-padding-small background-dark text-white s-12 margin-top-bottom-20">D&Eacute;ROULEMENT DE LA FORMATION</p> 
+					En  alternance avec un  d&eacute;roul&eacute; de 3  jours de cours par semaine tous les  15 jours soit un  total de 400 heures  de  formation (57 jours de  formation), qui se d&eacute;composent en 310  heures de formation et 90 heures de projet.
+					<p class="text-padding-small background-dark text-white s-12 margin-top-bottom-20">MODALIT&Eacute;S D’ACC&Egrave;S</p>
+					<p><b>Prix de la formation :</b>  <a class="text-primary-hover" href="#">Demander un devis <i class="icon-sli-mouse text-primary"></i></a><br>
+                    <b>Plan de d&eacute;veloppement des comp&eacute;tences :</b>  CPF 
+					</p>
                 </div>
               </div>
               
               <div class="m-12 l-6 margin-bottom-60">
                 <div class="float-left">
-                  <h3 class="text-strong text-size-20 text-line-height-1 margin-bottom-20"><a class="text-primary" href="#">D&eacute;veloppement</a></h3>
-				  <p><img src="img/code.png" width="64" height="63" border="0"></p>
-                  <p>Nous intervenons pour r&eacute;aliser des d&eacute;veloppements &agrave; nos clients couvrants diverses domaines. D&eacute;couvrir nos prestations de d&eacute;veloppement en ligne <a class="text-primary-hover" href="#"><i class="icon-sli-mouse text-primary"></i>ici.</p>                    
-            </div>
-              </div>
-              
-              
-        
-              
+                  <p class="text-padding-small background-primary text-white s-12 margin-top-bottom-20"><b>PROGRAMME DE LA FORMATION</b></p>
+                  <p>
+                    <b>M1 : Capter les  donn&eacute;es (45h)</b>
+                    <ul class="padding-2x">
+					<li>Architecture et Syst&egrave;mes des objets </li>
+                    <li>Capter les  donn&eacute;es</li>
+                    <li>Industrialisation des objets</li>
+                    </ul>
+                    <b>M2 : Connecter les  objets (110h)</b>
+                    <ul class="padding-2x">
+					<li>Harmonisation en r&eacute;seaux informatiques</li>
+					<li>Protocoles d&eacute;di&eacute;s IoT / M2M</li>
+					<li>Conception d’un  r&eacute;seau IoT</li>
+					<li>Interconnexion de protocoles</li>
+					<li>Services de synchronisation et localisation</li>
+                    </ul>
+                    <b>M3 : Entreposer les  donn&eacute;es (20h)</b>
+					<ul class="padding-2x">
+                    <li>Introduction aux plateformes IoT </li>
+                    <li>Focus sur  une plate-forme industrielle</li>
+                    </ul>
+                    <b>M4 : Exploiter les  donn&eacute;es (45h)</b>
+					<ul class="padding-2x">
+                    <li>Analyser des donn&eacute;es</li>
+                    <li>Classifier les  donn&eacute;es</li>
+                    <li>Industrialiser l’exploitation des donn&eacute;es</li>
+                    </ul>
+                    <b>M5: S&eacute;curiser la solution IoT (30h)</b>
+					<ul class="padding-2x">
+                    <li>Introduction &agrave; la s&eacute;curit&eacute; informatique</li>
+                    <li>S&eacute;curiser les  objets et le r&eacute;seau</li>
+                    <li>S&eacute;curiser l’application logicielle IoT</li>
+                    <li>IoT et Protection de la vie  priv&eacute;e</li>
+                    </ul>
+                    <b>M6: Culture 2.0 et Business IoT (60h)</b>
+					<ul class="padding-2x">
+                    <li>M&eacute;thodes agiles et Bases du DevOps</li>
+                    <li>Business et innovation dans l’IoT Veille  technologique</li>
+                    </ul>
+                  </p>                                                      
+                </div>
+              </div>                                                                                    
             </div>
           </div>       
         </section>
-      </article>
-          
-      <!-- Main Footer -->
-      <section class="section background-dark">
+</article>      
+</main>
+    
+<!-- Main Footer -->
+<section class="section background-dark">
+          <div class="line">
+            <div class="margin2x">
+            </div>
+          </div>       
         <div class="line"> 
             <div class="s-12 m-2 l-2 xl-7">
                <h4 class="text-white text-strong">Notre Mission</h4>

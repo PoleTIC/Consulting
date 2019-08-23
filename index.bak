@@ -93,7 +93,6 @@
       <!-- Section 3 -->
       <section class="section background-white">      
         <div class="line text-center">
-          <p class="text-primary text-size-20">Nos Services</p>
           <h2 class="text-dark text-size-50 text-m-size-40">Domaines de Comp&eacute;tence</h2>
           <i class="icon-chevron_down text-primary margin-bottom-50 text-size-20"></i> 
         </div> 
@@ -102,21 +101,24 @@
           <div class="margin">
             <!-- Left Column -->
             <div class="s-12 m-12 l-4 text-right"> 
-             <img src="img/iot.png" alt="" align="right">
 			  <div class="margin-right-50">
+                <img src="img/iot.png" alt="" align="right">
+                <h3 class="text-strong text-size-20">&nbsp;</h3>
+                <p>&nbsp;</p>
                 <i class="text-primary text-size-60 margin-bottom-20"></i>
                 <h3 class="text-strong text-size-20 text-line-height-1 margin-bottom-20">Internet des Objets</h3>
-                <p>Notre exp&eacute;rience nous permet de tester les technologies innovantes sur l’ensemble de la chaine de valeur, avec un regard d’expert ind&eacute;pendant en vue de donner un retour d’exp&eacute;rience fiable &agrave; nos clients</p>
+                <p>Tests des technologies innovantes sur l’ensemble de la chaine de valeur, avec un regard d’expert ind&eacute;pendant en vue de donner un retour d’exp&eacute;rience fiable &agrave; nos clients</p>
               </div>
               
               <div class="line"> 
                 <hr class="break background-primary break-small right margin-top-bottom-40">
               </div>
-
-             <img src="img/cloud.png" alt="" align="right">
               
               <div class="margin-right-50">
+                <img src="img/cloud.png" alt="" align="right" width="66" height="51">
 				<i class="text-primary text-size-60 margin-bottom-20"></i>
+                <h3 class="text-strong text-size-20">&nbsp;</h3>
+                <p>&nbsp;</p>
                 <h3 class="text-strong text-size-20 text-line-height-1 margin-bottom-20">Technologies Cloud</h3>
                 <p>Expertise sur les d&eacute;rni&egrave;res Technologies des solutions Cloud</p>
               </div> 
@@ -143,7 +145,8 @@
             <!-- Right Column -->
             <div class="s-12 m-12 l-4"> 
                <div class="margin-left-50">
-                <i class="icon-sli-heart text-primary text-size-40 margin-bottom-20"></i>
+               <img src="img/security.png" alt="">
+                <i class="text-primary text-size-60 margin-bottom-20"></i>
                 <h3 class="text-strong text-size-20 text-line-height-1 margin-bottom-20">Cyber S&eacute;curit&eacute;</h3>
                 <p>Des benchmarks men&eacute;s en continu sur l’ensemble des briques de la chaine de valeur (capteurs, r&eacute;seaux, infrastructures, plateformes, applications).</p>
               </div>
@@ -152,7 +155,8 @@
               </div>
               
               <div class="margin-left-50">
-                <i class="icon-sli-layers text-primary text-size-40 margin-bottom-20"></i>
+               <img src="img/code.png" alt="">
+                <i class="text-primary text-size-60 margin-bottom-20"></i>
                 <h3 class="text-strong text-size-20 text-line-height-1 margin-bottom-20">D&eacute;veloppement Logiciels</h3>
                 <p>D&eacute;veloppement d'applications &agrave; la demmande selon les besoins des clients et environements de d&eacute;veloppement souhait&eacute;s</p>
               </div> 
@@ -160,22 +164,7 @@
           </div>                                                                                              
         </div>       
       </section>
-      
-      <!-- Section 4 -->
-      <section class="background-primary full-width">        
-        <div class="m-12 l-6 xl-5 xxl-4">
-          <img class="full-img" src="img/img-02.png"/>
-        </div>         
-        <div class="m-12 l-6 xl-7 xxl-8">
-          <div class="l-12 xl-11 xxl-8 padding-2x">
-            <h2 class="text-l-size-40 text-size-50 text-white"><b>Qui somme nous ?</b></h2>
-            <p class="margin-bottom">        <p class="text-white">Notre &eacute;quipe de professionnels des TIC vous accompagne dans vos projets innovants en mettant &agrave; disposition des moyens concrets et des  ing&eacute;nieurs qualifi&eacute;s, pour des d&eacute;veloppements, des formations, et veilles sur les derni&egrave;res technologies</p>
-            <!-- white Start your Business object -->
-            <img class="margin-left-20 margin-top-30 margin-bottom-30" src="img/start-your-business.svg" alt="">
-          </div>  
-        </div>
-      </section>
-      
+            
       <!-- Section 5 -->
       <section class="section-small-padding background-grey">   
         <div class="line-full-width">
@@ -190,6 +179,21 @@
                 <img class="margin-bottom" src="img/logo-3.png"/>
              </div>
              <div class="m-6 l-1">
+                <img class="margin-bottom" src="img/logo-4.png"/>
+             </div>
+             <div class="m-6 l-1">
+                <img class="margin-bottom" src="img/logo-5.png"/>
+             </div>
+             <div class="m-6 l-1">
+                <img class="margin-bottom" src="img/logo-6.png"/>
+             </div>
+             <div class="m-6 l-1">
+                <img class="margin-bottom" src="img/logo-7.png"/>
+             </div>
+             <div class="m-6 l-1">
+                <img class="margin-bottom" src="img/logo-8.png"/>
+             </div>
+             <div class="m-6 l-1">
                 <img class="margin-bottom" src="img/logo-1.png"/>
              </div>
              <div class="m-6 l-1">
@@ -197,21 +201,6 @@
              </div>
              <div class="m-6 l-1">
                 <img class="margin-bottom" src="img/logo-5.png"/>
-             </div>
-             <div class="m-6 l-1">
-                <img class="margin-bottom" src="img/logo-3.png"/>
-             </div>
-             <div class="m-6 l-1">
-                <img class="margin-bottom" src="img/logo-1.png"/>
-             </div>
-             <div class="m-6 l-1">
-                <img class="margin-bottom" src="img/logo-5.png"/>
-             </div>
-             <div class="m-6 l-1">
-                <img class="margin-bottom" src="img/logo-4.png"/>
-             </div>
-             <div class="m-6 l-1">
-                <img class="margin-bottom" src="img/logo-1.png"/>
              </div>
              <div class="m-6 l-1">
                 <img class="margin-bottom" src="img/logo-2.png"/>
@@ -223,45 +212,28 @@
       
     </main>
     
-    <!-- FOOTER -->
-    <footer>
-      <!-- Social -->
-      <div class="background-primary padding text-center">
-        <a href="/"><i class="icon-facebook_circle text-size-25 text-dark"></i></a> 
-        <a href="/"><i class="icon-twitter_circle text-size-25 text-dark"></i></a>
-        <a href="/"><i class="icon-google_plus_circle text-size-25 text-dark"></i></a>
-        <a href="/"><i class="icon-instagram_circle text-size-25 text-dark"></i></a> 
-        <a href="/"><i class="icon-linked_in_circle text-size-25 text-dark"></i></a>                                                                       
-      </div>
       <!-- Main Footer -->
       <section class="section background-dark">
         <div class="line"> 
-          <div class="margin2x">
-            <div class="s-12 m-6 l-3 xl-5">
+            <div class="s-12 m-2 l-2 xl-7">
                <h4 class="text-white text-strong">Notre Mission</h4>
-               <p> Acteur de l’Innovation, le P&ocirc;le-TC a pour mission de:</p>
-            <p> - Favoriser, sensibiliser et anticiper les usages des technologies sans contact et de l’Internet des Objet.</p>
-
-<p>- Aider les structures &agrave; int&eacute;grer les derni&egrave;res technologies TIC au sein de leurs infrastructures &ccedil; la fois mat&eacute;rielles et logicielles et &agrave; prendre le virage de l’Internet du Futur.</p>
-
-<p>- Mettre en avant nos comp&eacute;tences pour fournir des services : formation ; diffusion, anticipation, qualification, approbation, accompagnement de nos clients.</p>
+               <p>Acteur de l’Innovation, le P&ocirc;le-TC a pour mission de:</p>
+               <p>- Favoriser, sensibiliser et anticiper les usages des nouvelles technologies.</p>
+               <p>- Aider les structures &agrave; int&eacute;grer les derni&egrave;res technologies TIC au sein de leurs infrastructures.</p>
+               <p>- Mettre en avant nos comp&eacute;tences pour fournir des services : formation ; diffusion, anticipation, qualification, approbation, accompagnement de nos clients.</p>
             </div>
-            <div class="s-12 m-6 l-3 xl-2">
-               <h4 class="text-white text-strong margin-m-top-30">Liens Utiles</h4>
-               <a class="text-primary-hover" href="#">FAQ</a><br>      
-               <a class="text-primary-hover" href="#">Blog</a>
+            <div class="s-12 m-2 l-2 xl-2">
+               <h4 class="text-white text-strong">Liens Utiles</h4>
+               <a class="text-primary-hover" href="#">FAQ</a></br>     
+               <a class="text-primary-hover" href="#">Blog</a></br>
+               <a class="text-primary-hover" href="#">Termes et Conditions</a>
             </div>
-            <div class="s-12 m-6 l-3 xl-2">
-               <h4 class="text-white text-strong margin-m-top-30">R&egrave;gles d'utilisation</h4>
-               <a class="text-primary-hover" href="#">Termes et Conditions</a><br>
-            </div>
-            <div class="s-12 m-6 l-3 xl-3">
-               <h4 class="text-white text-strong margin-m-top-30">Nous Contacter</h4>
+            <div class="s-12 m-2 l-2 xl-3">
+               <h4 class="text-white text-strong">Nous Contacter</h4>
                 <p><i class="icon-sli-screen-smartphone text-primary"></i> +33 (0)7 51 12 71 77</p>
                 <a class="text-primary-hover" href="mailto:contact@pole-tic.ml"><i class="icon-sli-mouse text-primary"></i> contact@pole-tic.ml</a><br>
             </div>
           </div>  
-        </div>    
       </section>
       <div class="background-dark">
          <div class="line">
