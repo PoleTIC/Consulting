@@ -86,7 +86,7 @@
         <section class="section background-white">      
           <div class="line">
             <div class="margin2x">
-              <div class="m-12 l-6 margin-bottom-60">
+              <div class="m-12 l-6">
                 <div class="float-left">
                   <p class="text-padding-small background-primary text-white s-12 margin-top-bottom-20"><b>OBJECTIFS DE LA FORMATION</b></p>                    
                   <p>Cette formation apporte les  comp&eacute;tences du  domaine de l’IoT n&eacute;cessaires &agrave; la conception  d’une solution IoT de bout-en-bout qui  r&eacute;pond &agrave; un  besoin clairement identifi&eacute; pr&eacute;sentant la nature des donn&eacute;es manipul&eacute;es, les contraintes op&eacute;rationnelles et la valeur ajout&eacute;e que devra produire la solution IoT. A  l’issue   de la  formation, le  concepteur de solution IoT  est en  mesure de travailler avec des experts du domaine de l’embarqu&eacute;,  du  r&eacute;seau, du  logiciel ou  de l’analyse de donn&eacute;es afin  de coordonner la cr&eacute;ation et le d&eacute;ploiement d’une solution IoT.         
@@ -103,7 +103,7 @@
                 </div>
               </div>
               
-              <div class="m-12 l-6 margin-bottom-60">
+              <div class="m-12 l-6">
                 <div class="float-left">
                   <p class="text-padding-small background-primary text-white s-12 margin-top-bottom-20"><b>PROGRAMME DE LA FORMATION</b></p>
                   <p>

@@ -83,7 +83,7 @@
               <div class="m-12 l-6 margin-bottom-60">
                 <div class="float-left">
                   <h3 class="text-strong text-size-20 text-line-height-1 margin-bottom-20"> <a class="text-primary" href="formation.html">Formation</a></h3>
-				  <p><img src="img/code.png" width="64" height="63" border="0"></p>
+				  <p><img src="img/training.png" width="64" height="63" border="0"></p>
                   <p>Nous assurons des formations pour nos clients sur l'internet des objets, les technologies cloud, la cyber s&eacute;curit&eacute;, et les language de programmation. Acc&eacute;der &agrave; nos catalogue de formations en ligne <a class="text-primary-hover" href="formation.html"><i class="icon-sli-mouse text-primary"></i>ici.</a></p>                    
                      
                 </div>
@@ -92,8 +92,8 @@
               <div class="m-12 l-6 margin-bottom-60">
                 <div class="float-left">
                   <h3 class="text-strong text-size-20 text-line-height-1 margin-bottom-20"><a class="text-primary" href="#">D&eacute;veloppement</a></h3>
-                  <p>
-                     Nous intervenons pour r&eacute;aliser des d&eacute;veloppements &agrave; nos clients couvrants diverses domaines. D&eacute;couvrir nos prestations de d&eacute;veloppement en ligne <a class="text-primary-hover" href="#"><i class="icon-sli-mouse text-primary"></i>ici.</p>                    
+				  <p><img src="img/code.png" width="64" height="63" border="0"></p>
+                  <p>Nous intervenons pour r&eacute;aliser des d&eacute;veloppements &agrave; nos clients couvrants diverses domaines. D&eacute;couvrir nos prestations de d&eacute;veloppement en ligne <a class="text-primary-hover" href="#"><i class="icon-sli-mouse text-primary"></i>ici.</p>                    
             </div>
               </div>
               
